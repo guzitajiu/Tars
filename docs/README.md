@@ -4,7 +4,7 @@
 ------------------|----------------
 [tars_tup.md](https://github.com/guzitajiu/Tars/blob/master/docs/tars_tup.md)                 |Tars框架的统一通信协议说明文档
 [tars_performce.md](https://github.com/guzitajiu/Tars/blob/master/docs/tars_performce.md)           |Tars框架性能测试说明文档
-tars_template.md            |Tars框架模版配置文件说明文档
+[tars_template.md](https://github.com/guzitajiu/Tars/blob/master/docs/tars_template.md)            |Tars框架模版配置文件说明文档
 tars_config.md              |Tars框架业务配置文件说明文档
 tars_server_monitor         |Tars框架服务监控说明文档
 tars_idc_set.md             |Tars框架IDC分组和Set分组说明文档
